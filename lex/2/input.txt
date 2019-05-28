@@ -1,0 +1,13 @@
+#include<stdio.h>
+//This is a comment
+/*This is a multiline 
+comment for demo*/
+void main(){
+	int a=20;
+	int b=10,c;
+	int d=0;
+	c=a+b;
+	d=a*b
+	printf("Sum: %d and Product: %d",c,d);
+}
+
